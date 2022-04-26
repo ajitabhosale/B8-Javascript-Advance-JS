@@ -11,6 +11,7 @@ var arr1=["Monday","Tuesday","Saturday","Sunday","Thursday","Friday"];
 // console.log("removed elements-->",result1);
 // console.log(arr);
 var result2=arr1.splice(4);
+
 console.log("removed elements-->",result2);
 
 
