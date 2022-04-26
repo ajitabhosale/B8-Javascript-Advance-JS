@@ -22,4 +22,5 @@ console.log(result5);
 var result6=arr1.indexOf("php");
 console.log(result6);
 var result7=arr1.indexOf("java",1);
+
 console.log(result7);
